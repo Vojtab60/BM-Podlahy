@@ -38,7 +38,7 @@ if (currentPage) {
 const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 const revealItems = document.querySelectorAll(".reveal");
 
-if (!reduceMotion && revealItems.length) {
+if (!reduceMotion && revealItems.length && "IntersectionObserver" in window) {
   const observer = new IntersectionObserver(
     (entries) => {
       entries.forEach((entry) => {
