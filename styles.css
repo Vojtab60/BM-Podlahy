@@ -1260,6 +1260,156 @@ h3 {
   transition: opacity 0.65s ease, transform 0.65s ease;
 }
 
+@media (max-width: 900px) {
+  .nav {
+    padding: 0.8rem 0.9rem;
+    gap: 0.75rem;
+  }
+
+  .nav-links {
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+  }
+
+  .hero {
+    padding: 1.25rem 0 2.5rem;
+  }
+
+  .hero-grid,
+  .intro-grid,
+  .hero-meta,
+  .hero-facts,
+  .footer-grid,
+  .contact-grid,
+  .detail-grid,
+  .story-grid,
+  .stat-grid,
+  .project-grid,
+  .service-sections,
+  .field-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-copy {
+    padding: 1.5rem;
+  }
+
+  .hero-media {
+    padding: 0.9rem;
+  }
+
+  .media-frame {
+    min-height: 420px;
+  }
+
+  .hero-note {
+    left: 0.9rem;
+    right: 0.9rem;
+    bottom: 0.9rem;
+    padding: 0.9rem 1rem;
+  }
+
+  .hero-note strong {
+    font-size: 0.95rem;
+  }
+
+  .hero-note span,
+  .meta-card strong,
+  .feature-copy,
+  .field label,
+  .nav-links a {
+    font-size: 0.92rem;
+  }
+
+  .section-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.9rem;
+  }
+
+  .footer-grid {
+    gap: 1rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .nav {
+    padding: 0.75rem 0.85rem;
+  }
+
+  .brand-copy strong {
+    font-size: 0.9rem;
+  }
+
+  .brand-copy span,
+  .footer-copy,
+  .section-intro,
+  .lede,
+  .hero-note span {
+    font-size: 0.95rem;
+  }
+
+  .hero {
+    padding: 1rem 0 2rem;
+  }
+
+  .hero-copy {
+    padding: 1.2rem;
+  }
+
+  .hero-meta,
+  .hero-facts,
+  .field-grid,
+  .footer-grid,
+  .contact-grid,
+  .detail-grid,
+  .story-grid,
+  .stat-grid,
+  .project-grid,
+  .service-sections {
+    grid-template-columns: 1fr;
+  }
+
+  .media-frame {
+    min-height: 320px;
+  }
+
+  .hero-note {
+    left: 0.75rem;
+    right: 0.75rem;
+    bottom: 0.75rem;
+    padding: 0.85rem 0.95rem;
+  }
+
+  .meta-card {
+    padding: 0.9rem;
+  }
+
+  .hero-actions {
+    gap: 0.65rem;
+  }
+
+  .contact-form {
+    padding: 1.2rem;
+  }
+
+  .contact-panel,
+  .surface-card,
+  .list-panel,
+  .quote-panel,
+  .story-panel,
+  .footer-panel {
+    padding: 1.2rem;
+  }
+
+  .field input,
+  .field select,
+  .field textarea {
+    padding: 0.85rem 0.95rem;
+  }
+}
+
 .reveal.is-visible {
   opacity: 1;
   transform: translateY(0);
