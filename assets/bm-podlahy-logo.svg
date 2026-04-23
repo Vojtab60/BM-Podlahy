@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 218 138" role="img" aria-labelledby="title">
+  <title>BM Podlahy</title>
+  <defs>
+    <style>
+      .teal { fill: #0b5f6a; }
+      .beige { fill: #b3a995; }
+      .wordmark {
+        fill: #174b5a;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 30px;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+
+  <rect class="teal" x="0" y="0" width="218" height="104" rx="0"/>
+
+  <rect class="beige" x="0" y="0" width="79" height="28"/>
+  <rect class="beige" x="0" y="38" width="79" height="28"/>
+  <polygon class="beige" points="79,0 107,28 79,28 51,0"/>
+  <polygon class="beige" points="79,38 107,52 107,66 79,66"/>
+
+  <polygon class="beige" points="110,104 110,0 134,0 157,24 157,104 133,104 133,33 110,10"/>
+  <polygon class="beige" points="158,24 182,0 206,0 206,104 182,104 182,31 170,43 158,54"/>
+
+  <text class="wordmark" x="0" y="133" textLength="218" lengthAdjust="spacingAndGlyphs">BMPODLAHY</text>
+</svg>
