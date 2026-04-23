@@ -373,6 +373,22 @@ button {
   background: radial-gradient(circle, rgba(138, 94, 58, 0.14), transparent 70%);
 }
 
+.hero-intro {
+  display: grid;
+  gap: 1rem;
+}
+
+.trust-bar {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin: 0;
+  color: var(--moss);
+  font-size: 0.88rem;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
 .eyebrow {
   display: inline-flex;
   align-items: center;
@@ -406,7 +422,7 @@ h4 {
 }
 
 h1 {
-  margin-top: 1rem;
+  margin-top: 0;
   max-width: 11ch;
   font-size: clamp(2.9rem, 6.3vw, 5.4rem);
   line-height: 0.96;
@@ -444,6 +460,15 @@ h3 {
   gap: 0.9rem;
 }
 
+.hero-phone {
+  white-space: nowrap;
+}
+
+.hero-link {
+  min-height: 48px;
+  padding-inline: 0.15rem;
+}
+
 .hero-facts {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -469,6 +494,12 @@ h3 {
   color: var(--ink-soft);
   font-size: 0.92rem;
   line-height: 1.6;
+}
+
+.fact span a {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
 }
 
 .hero-media {
@@ -549,6 +580,29 @@ h3 {
 .meta-card strong {
   font-size: 0.85rem;
   line-height: 1.4;
+}
+
+.section-trust-intro {
+  padding-top: 1rem;
+}
+
+.trust-intro {
+  padding: 1.15rem 1.4rem;
+  border: 1px solid rgba(255, 255, 255, 0.72);
+  border-radius: var(--radius-lg);
+  background: rgba(252, 248, 242, 0.72);
+  box-shadow: var(--shadow-soft);
+}
+
+.trust-intro p {
+  margin: 0;
+  max-width: 72ch;
+  color: var(--ink-soft);
+  font-size: 1rem;
+}
+
+.trust-intro strong {
+  color: var(--ink);
 }
 
 .section {
@@ -1381,6 +1435,10 @@ h3 {
     padding: 1.5rem;
   }
 
+  .trust-bar {
+    font-size: 0.85rem;
+  }
+
   .hero-media {
     padding: 0.9rem;
   }
@@ -1446,6 +1504,10 @@ h3 {
 
   .hero-copy {
     padding: 1.2rem;
+  }
+
+  .trust-bar {
+    font-size: 0.82rem;
   }
 
   .hero-meta,
@@ -1644,6 +1706,12 @@ h3 {
   body[data-page="home"] .hero-copy .hero-actions .button,
   body[data-page="home"] .hero-copy .hero-actions .button-secondary {
     width: 100%;
+  }
+
+  body[data-page="home"] .hero-copy .hero-actions .hero-link {
+    min-height: auto;
+    justify-content: flex-start;
+    padding: 0.15rem 0;
   }
 
   .hero,
