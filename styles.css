@@ -44,6 +44,7 @@
 
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 body {
@@ -1277,17 +1278,24 @@ h3 {
   }
 
   .hero-grid,
-  .intro-grid,
+  .intro-grid {
+    grid-template-columns: 1fr;
+  }
+
   .hero-meta,
   .hero-facts,
+  .stat-grid,
+  .project-grid,
+  .field-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.8rem;
+  }
+
   .footer-grid,
   .contact-grid,
   .detail-grid,
   .story-grid,
-  .stat-grid,
-  .project-grid,
-  .service-sections,
-  .field-grid {
+  .service-sections {
     grid-template-columns: 1fr;
   }
 
@@ -1360,13 +1368,17 @@ h3 {
 
   .hero-meta,
   .hero-facts,
-  .field-grid,
+  .stat-grid,
+  .project-grid,
+  .field-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.7rem;
+  }
+
   .footer-grid,
   .contact-grid,
   .detail-grid,
   .story-grid,
-  .stat-grid,
-  .project-grid,
   .service-sections {
     grid-template-columns: 1fr;
   }
