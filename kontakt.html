@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kontakt | BM Podlahy, s.r.o.</title>
+  <meta name="description" content="Kontaktujte BM Podlahy, s.r.o. a pošlete nezávaznou poptávku na pokládku dřevěné podlahy, renovaci nebo poradenství.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700;800&amp;family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body data-page="kontakt">
+  <a class="skip-link" href="#main">Přeskočit na obsah</a>
+
+  <header class="site-header">
+    <div class="shell">
+      <nav class="nav" aria-label="Hlavní navigace">
+        <a class="brand" href="index.html" aria-label="BM Podlahy, domovská stránka">
+          <span class="brand-mark">BM</span>
+          <span class="brand-copy">
+            <strong>BM Podlahy</strong>
+            <span>Poctivá práce se dřevem a detailem</span>
+          </span>
+        </a>
+        <div class="nav-links" id="site-menu">
+          <a href="index.html" data-page="home">Úvod</a>
+          <a href="sluzby.html" data-page="sluzby">Služby</a>
+          <a href="realizace.html" data-page="realizace">Realizace</a>
+          <a href="o-firme.html" data-page="o-firme">O firmě</a>
+          <a href="kontakt.html" data-page="kontakt">Kontakt</a>
+        </div>
+        <div class="nav-tools">
+          <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-menu" aria-label="Otevřít navigaci">
+            <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+              <path d="M4 7H20M4 12H20M4 17H20" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+            </svg>
+          </button>
+          <a class="button" href="kontakt.html">Nezávazná poptávka</a>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <main class="page" id="main">
+    <section class="page-hero">
+      <div class="shell page-hero-shell reveal">
+        <div class="page-hero-copy">
+          <span class="eyebrow">Kontakt a poptávka</span>
+          <h1>Ozvěte se s podlahou, kterou právě řešíte.</h1>
+          <p class="lede">
+            Ať jde o novou pokládku, renovaci nebo jen výběr vhodného materiálu, první kontakt nemusí být složitý. Napište pár základních informací a navážeme konkrétní domluvou.
+          </p>
+        </div>
+        <div class="page-hero-aside">
+          <div class="aside-note">
+            <span class="section-label">Kdy má smysl napsat</span>
+            <p>Když řešíte novou podlahu, obnovu stávající, potřebujete poradit s výběrem dřeva nebo si chcete ujasnit, co je v konkrétním prostoru reálné.</p>
+          </div>
+          <div class="aside-note">
+            <span class="section-label">Co pomůže</span>
+            <p>Typ prostoru, přibližná plocha, lokalita, aktuální stav a pár slov o tom, jaký výsledek očekáváte.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="shell contact-grid">
+        <article class="contact-panel reveal">
+          <span class="section-label">Přímý kontakt</span>
+          <h2>Preferujete raději telefon nebo e-mail?</h2>
+          <p>
+            Obojí je v pořádku. Pokud máte už konkrétní podklady nebo fotografie prostoru, bývá praktičtější e-mail. Pro rychlou orientaci je zase nejjednodušší zavolat.
+          </p>
+
+          <div class="contact-list">
+            <div class="contact-item">
+              <span class="detail-label">Telefon</span>
+              <strong><a href="tel:+420739732294">+420 739 732 294</a></strong>
+            </div>
+            <div class="contact-item">
+              <span class="detail-label">E-mail</span>
+              <strong><a href="mailto:bmpodlahy@gmail.com">bmpodlahy@gmail.com</a></strong>
+            </div>
+            <div class="contact-item">
+              <span class="detail-label">Sídlo firmy</span>
+              <strong>K lipám 295/22, Praha 9, 190 00</strong>
+            </div>
+            <div class="contact-item">
+              <span class="detail-label">Oblast realizací</span>
+              <strong>Praha a okolí, po domluvě i širší okolí</strong>
+            </div>
+          </div>
+        </article>
+
+        <form class="contact-form reveal" data-contact-form>
+          <span class="section-label" style="color: rgba(255, 255, 255, 0.72);">Nezávazná poptávka</span>
+          <h2 style="font-size: clamp(2rem, 4vw, 3rem);">Napište nám</h2>
+          <p>Formulář v této statické verzi otevře předvyplněný e-mail. Později ho lze snadno napojit na reálné odesílání.</p>
+
+          <div class="field-grid">
+            <div class="field">
+              <label for="name">Jméno</label>
+              <input id="name" name="name" type="text" placeholder="Vaše jméno" required>
+            </div>
+            <div class="field">
+              <label for="email">E-mail</label>
+              <input id="email" name="email" type="email" placeholder="vas@email.cz" required>
+            </div>
+          </div>
+
+          <div class="field-grid">
+            <div class="field">
+              <label for="phone">Telefon</label>
+              <input id="phone" name="phone" type="tel" placeholder="+420">
+            </div>
+            <div class="field">
+              <label for="service">Co řešíte</label>
+              <select id="service" name="service">
+                <option value="Pokládka nové podlahy">Pokládka nové podlahy</option>
+                <option value="Renovace nebo broušení">Renovace nebo broušení</option>
+                <option value="Poradenství při výběru">Poradenství při výběru</option>
+                <option value="Jiná konzultace">Jiná konzultace</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="field">
+            <label for="location">Místo realizace</label>
+            <input id="location" name="location" type="text" placeholder="Např. Praha 6, byt 85 m²">
+          </div>
+
+          <div class="field">
+            <label for="message">Zpráva</label>
+            <textarea id="message" name="message" placeholder="Popište stručně prostor, stav podlahy, přibližnou plochu a představu o výsledku." required></textarea>
+          </div>
+
+          <div class="hero-actions">
+            <button class="button" type="submit">Odeslat poptávku</button>
+            <a class="button-secondary" href="tel:+420739732294">Raději zavolat</a>
+          </div>
+          <div class="form-note">Komentář pro vývoj: formulář je připravený k budoucímu napojení na backend nebo e-mailovou službu.</div>
+          <div class="form-message" aria-live="polite"></div>
+        </form>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="shell detail-grid">
+        <article class="detail-panel reveal">
+          <span class="section-label">Jak probíhá první krok</span>
+          <h3>Nečekáme hotové zadání. Stačí základní informace.</h3>
+          <p>
+            Většina poptávek začíná tím, že klient ví, kde je problém nebo co chce změnit, ale ještě nezná přesné řešení. To je v pořádku. Podle prvních informací si řekneme, co bude potřeba doplnit a jak nejlépe pokračovat.
+          </p>
+        </article>
+        <aside class="detail-panel reveal">
+          <span class="section-label">Co urychlí další postup</span>
+          <div class="detail-list">
+            <div class="detail-item">
+              <strong>Přibližná plocha</strong>
+              <p>Stačí odhad, nemusí jít o přesné zaměření.</p>
+            </div>
+            <div class="detail-item">
+              <strong>Fotografie prostoru</strong>
+              <p>Pomohou rychleji odhadnout stav i vhodný postup.</p>
+            </div>
+            <div class="detail-item">
+              <strong>Časový rámec</strong>
+              <p>Ideální termín realizace nebo návaznost na rekonstrukci.</p>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="shell">
+      <div class="footer-panel reveal">
+        <div class="footer-grid">
+          <div>
+            <a class="brand" href="index.html">
+              <span class="brand-mark">BM</span>
+              <span class="brand-copy">
+                <strong>BM Podlahy, s.r.o.</strong>
+                <span>IČO 03479170</span>
+              </span>
+            </a>
+            <p class="footer-copy">Kontakt pro nezávazné poptávky na pokládku, renovace i poradenství.</p>
+          </div>
+          <div class="footer-links">
+            <span class="section-label">Navigace</span>
+            <a href="index.html">Úvod</a>
+            <a href="sluzby.html">Služby</a>
+            <a href="realizace.html">Realizace</a>
+            <a href="o-firme.html">O firmě</a>
+          </div>
+          <div class="footer-links">
+            <span class="section-label">Kontakt</span>
+            <a href="tel:+420739732294">739 732 294</a>
+            <a href="mailto:bmpodlahy@gmail.com">bmpodlahy@gmail.com</a>
+            <span class="footer-copy">K lipám 295/22, Praha 9, 190 00</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
