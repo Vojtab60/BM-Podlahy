@@ -923,6 +923,14 @@ h3 {
   color: var(--ink-soft);
 }
 
+.service-block .service-photo {
+  display: block;
+}
+
+.service-block .gallery-photo {
+  min-height: 320px;
+}
+
 .mobile-project-galleries {
   display: none;
 }
@@ -1650,6 +1658,10 @@ h3 {
     border-right: 0;
   }
 
+  .service-block .gallery-photo {
+    min-height: 240px;
+  }
+
   .hastalska-gallery {
     padding: 0 1.2rem 1.2rem;
   }
@@ -1681,6 +1693,10 @@ h3 {
   .hastalska-mosaic .hastalska-item.portrait,
   .hastalska-mosaic .hastalska-item.portrait.narrow {
     grid-column: span 1;
+  }
+
+  .project-gallery .hastalska-item {
+    min-height: 14rem;
   }
 
   .lightbox {
