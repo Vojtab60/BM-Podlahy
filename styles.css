@@ -956,6 +956,10 @@ h3 {
 }
 
 .mobile-project-gallery-grid .gallery-lightbox-trigger {
+  display: block;
+  width: 100%;
+  min-height: 8.5rem;
+  height: auto;
   aspect-ratio: 1 / 1;
   border-radius: calc(var(--radius-md) - 0.35rem);
   overflow: hidden;
@@ -963,8 +967,11 @@ h3 {
 }
 
 .mobile-project-gallery-grid .gallery-lightbox-trigger img {
+  display: block;
   width: 100%;
-  height: 100%;
+  height: auto;
+  min-height: 8.5rem;
+  aspect-ratio: 1 / 1;
   object-fit: cover;
 }
 
@@ -1652,8 +1659,13 @@ h3 {
   }
 
   .mobile-project-gallery-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: 1fr;
     gap: 0.55rem;
+  }
+
+  .mobile-project-gallery-grid .gallery-lightbox-trigger,
+  .mobile-project-gallery-grid .gallery-lightbox-trigger img {
+    min-height: 12rem;
   }
 
   .hastalska-hero-grid,
