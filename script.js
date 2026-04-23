@@ -48,7 +48,10 @@ if (!reduceMotion && revealItems.length && "IntersectionObserver" in window) {
         }
       });
     },
-    { threshold: 0.18 }
+    {
+      threshold: 0.02,
+      rootMargin: "0px 0px -8% 0px"
+    }
   );
 
   revealItems.forEach((item) => observer.observe(item));
