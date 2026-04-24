@@ -15,10 +15,10 @@
   --white: #fffdf9;
   --shadow-soft: 0 20px 60px rgba(52, 36, 24, 0.08);
   --shadow-strong: 0 26px 70px rgba(52, 36, 24, 0.12);
-  --radius-sm: 14px;
-  --radius-md: 22px;
-  --radius-lg: 34px;
-  --radius-xl: 44px;
+  --radius-sm: 10px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+  --radius-xl: 30px;
   --space-1: 0.5rem;
   --space-2: 0.75rem;
   --space-3: 1rem;
@@ -1221,6 +1221,10 @@ h3 {
 
 .stat-grid {
   grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.trust-stats {
+  margin-top: 1rem;
 }
 
 .stat-card {
