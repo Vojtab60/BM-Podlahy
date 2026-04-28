@@ -1237,8 +1237,9 @@ h3 {
 
 .stat-card strong {
   display: block;
-  font-size: clamp(1.8rem, 3vw, 2.6rem);
-  line-height: 1;
+  font-size: clamp(1.05rem, 1.35vw, 1.28rem);
+  line-height: 1.15;
+  letter-spacing: 0;
 }
 
 .stat-card span {
