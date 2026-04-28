@@ -472,7 +472,7 @@ h3 {
 .hero-facts {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1.15rem 1.7rem;
+  gap: 1rem 1.6rem;
 }
 
 .fact {
@@ -482,9 +482,8 @@ h3 {
 
 .fact strong {
   display: block;
-  margin-bottom: 0.42rem;
-  font-size: 1.26rem;
-  line-height: 1.25;
+  margin-bottom: 0.35rem;
+  font-size: 1rem;
 }
 
 .fact:nth-child(3) {
@@ -493,8 +492,8 @@ h3 {
 
 .fact span {
   color: var(--ink-soft);
-  font-size: 1.12rem;
-  line-height: 1.62;
+  font-size: 0.92rem;
+  line-height: 1.6;
 }
 
 .fact span a {
@@ -570,17 +569,17 @@ h3 {
 .detail-label,
 .kicker {
   display: block;
-  margin-bottom: 0.52rem;
+  margin-bottom: 0.45rem;
   color: var(--ink-soft);
-  font-size: 0.88rem;
+  font-size: 0.76rem;
   font-weight: 800;
   letter-spacing: 0.14em;
   text-transform: uppercase;
 }
 
 .meta-card strong {
-  font-size: 1.14rem;
-  line-height: 1.48;
+  font-size: 0.85rem;
+  line-height: 1.4;
 }
 
 .section-trust-intro {
@@ -1378,18 +1377,12 @@ h3 {
 }
 
 .footer-copy {
-  font-size: 1.12rem;
-  line-height: 1.62;
+  font-size: 0.94rem;
 }
 
 .footer-links {
   display: grid;
-  gap: 0.65rem;
-}
-
-.footer-links a {
-  font-size: 1.22rem;
-  line-height: 1.36;
+  gap: 0.5rem;
 }
 
 .reveal {
@@ -1471,14 +1464,11 @@ h3 {
   }
 
   .hero-note span,
+  .meta-card strong,
   .feature-copy,
   .field label,
   .nav-links a {
     font-size: 0.92rem;
-  }
-
-  .meta-card strong {
-    font-size: 1.05rem;
   }
 
   .section-header {
@@ -1506,14 +1496,11 @@ h3 {
   }
 
   .brand-copy span,
+  .footer-copy,
   .section-intro,
   .lede,
   .hero-note span {
     font-size: 0.95rem;
-  }
-
-  .footer-copy {
-    font-size: 1rem;
   }
 
   .hero {
