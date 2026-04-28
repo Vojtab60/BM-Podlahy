@@ -1,0 +1,300 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/BM-Podlahy/_next/static/css/99d863580082570e.css","style"]
+0:{"P":null,"b":"hLVM0iVLAvZK_DgPac1hQ","p":"/BM-Podlahy","c":["","hastalska"],"i":false,"f":[[["",{"children":[["slug","hastalska","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/BM-Podlahy/_next/static/css/99d863580082570e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"cs","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["slug","hastalska","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[8467,["182","static/chunks/app/%5Bslug%5D/page-6ed054cafce3f7e8.js"],"BmRuntime"]
+10:T4889,
+  <a class="skip-link" href="#main">Přeskočit na obsah</a>
+
+  <header class="site-header">
+    <div class="shell">
+      <nav class="nav" aria-label="Hlavní navigace">
+        <a class="brand" href="/BM-Podlahy/" aria-label="BM Podlahy, domovská stránka">
+          <span class="brand-mark"><img src="/BM-Podlahy/assets/bm-podlahy-logo.svg" alt=""></span>
+          <span class="brand-copy">
+            <strong>BM Podlahy</strong>
+            <span>Poctivá práce se dřevem a detailem</span>
+          </span>
+        </a>
+        <div class="nav-links" id="site-menu">
+          <a href="/BM-Podlahy/" data-page="home">Úvod</a>
+          <a href="/BM-Podlahy/sluzby" data-page="sluzby">Služby</a>
+          <a href="/BM-Podlahy/realizace" data-page="realizace">Realizace</a>
+          <a href="/BM-Podlahy/o-firme" data-page="o-firme">O firmě</a>
+          <a href="/BM-Podlahy/kontakt" data-page="kontakt">Kontakt</a>
+        </div>
+        <div class="nav-tools">
+          <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-menu" aria-label="Otevřít navigaci">
+            <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+              <path d="M4 7H20M4 12H20M4 17H20" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+            </svg>
+          </button>
+          <a class="button" href="/BM-Podlahy/kontakt">Nezávazná poptávka</a>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <main class="page" id="main">
+    <section class="page-hero project-detail-hero">
+      <div class="shell page-hero-shell reveal">
+        <div class="page-hero-copy">
+          <a class="detail-backlink" href="/BM-Podlahy/realizace">Zpět na všechny realizace</a>
+          <span class="eyebrow">Detail realizace</span>
+          <h1>Rekonstrukce Haštalská</h1>
+          <p class="lede">
+            Byt v historickém domě v Praze 1 prošel kompletní rekonstrukcí. Podlaha tu nevznikala izolovaně, ale v návaznosti na truhlářské prvky, dispozici bytu i čisté vedení detailu mezi obytnou částí, ložnicí, kuchyní a koupelnou.
+          </p>
+          <div class="project-meta">
+            <span class="tag">Praha 1</span>
+            <span class="tag">Kompletní rekonstrukce</span>
+            <span class="tag">Dubová podlaha do stromečku</span>
+          </div>
+        </div>
+        <div class="page-hero-aside">
+          <div class="gallery-photo">
+            <img src="/BM-Podlahy/assets/optimized/hastalska/hastalska-02.jpg" alt="Rekonstrukce Haštalská, obytný prostor s dubovou podlahou">
+          </div>
+          <div class="aside-note">
+            <span class="section-label">Jak stránka funguje</span>
+            <p>Kliknutím na libovolnou fotografii ji otevřete ve větším náhledu. Galerie zůstává přehledná i na mobilu.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="shell">
+        <div class="section-header reveal">
+          <div>
+            <span class="section-label">O projektu</span>
+            <h2>Klidný interiér, kde podlaha drží celek pohromadě.</h2>
+          </div>
+          <p class="section-intro">
+            U této realizace nebyla důležitá jen kresba dřeva, ale i přesné návaznosti, proporce vzoru a to, aby výsledek působil čistě i při pohledu skrz celý byt. Právě takové zakázky ukazují, že podlaha je řemeslo, ne dekorace na poslední chvíli.
+          </p>
+        </div>
+
+        <div class="detail-grid">
+          <article class="detail-panel reveal">
+            <span class="section-label">Co bylo důležité</span>
+            <div class="detail-list">
+              <div class="detail-item">
+                <strong>Přesné vedení stromečku</strong>
+                <p>Vzorek musel fungovat v dlouhých průhledech bytem a nesměl se vizuálně rozpadat mezi jednotlivými místnostmi.</p>
+              </div>
+              <div class="detail-item">
+                <strong>Návaznost na interiér</strong>
+                <p>Podlaha navazuje na vestavěný nábytek, dveře i čisté linie stěn, takže byl důležitý každý detail hrany a přechodu.</p>
+              </div>
+              <div class="detail-item">
+                <strong>Materiál a světlo</strong>
+                <p>Výsledný tón dubu musel fungovat ve světlém denním světle i v klidnějších částech bytu bez zbytečné tvrdosti.</p>
+              </div>
+            </div>
+          </article>
+
+          <aside class="detail-panel reveal">
+            <span class="section-label">Rozsah realizace</span>
+            <div class="detail-list">
+              <div class="detail-item">
+                <strong>Typ prostoru</strong>
+                <p>Městský byt v historické zástavbě.</p>
+              </div>
+              <div class="detail-item">
+                <strong>Prováděné práce</strong>
+                <p>Pokládka dřevěné podlahy, řešení detailů a návazností v rámci kompletní rekonstrukce.</p>
+              </div>
+              <div class="detail-item">
+                <strong>Výstup</strong>
+                <p>Jednotný, klidný interiér, kde dřevo podporuje prostor místo toho, aby na sebe strhávalo pozornost.</p>
+              </div>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="shell">
+        <div class="section-header reveal">
+          <div>
+            <span class="section-label">Fotogalerie</span>
+            <h2>Všechny fotografie z realizace Haštalská.</h2>
+          </div>
+          <p class="section-intro">
+            Klikněte na fotografii pro zvětšení. Tohle je samostatný detail projektu, takže se sem dá později snadno doplnit i další text, půdorys nebo technické informace.
+          </p>
+        </div>
+
+        <div class="project-gallery reveal">
+          <!-- Fotky projektu Haštalská lze snadno měnit výměnou souborů v assets/hastalska/. -->
+          <div class="hastalska-hero-grid">
+            <figure class="gallery-photo hastalska-item landscape">
+              <button class="gallery-lightbox-trigger" type="button" data-lightbox-trigger data-lightbox-src="/BM-Podlahy/assets/optimized/hastalska/hastalska-01.jpg" data-lightbox-alt="Rekonstrukce Haštalská, obytný prostor s dubovou podlahou">
+                <img src="/BM-Podlahy/assets/optimized/hastalska/hastalska-01.jpg" alt="Rekonstrukce Haštalská, obytný prostor s dubovou podlahou">
+              </button>
+            </figure>
+            <figure class="gallery-photo hastalska-item landscape">
+              <button class="gallery-lightbox-trigger" type="button" data-lightbox-trigger data-lightbox-src="/BM-Podlahy/assets/optimized/hastalska/hastalska-02.jpg" data-lightbox-alt="Rekonstrukce Haštalská, světlý obytný prostor s parketou do stromečku">
+                <img src="/BM-Podlahy/assets/optimized/hastalska/hastalska-02.jpg" alt="Rekonstrukce Haštalská, světlý obytný prostor s parketou do stromečku">
+              </button>
+            </figure>
+            <figure class="gallery-photo hastalska-item portrait">
+              <button class="gallery-lightbox-trigger" type="button" data-lightbox-trigger data-lightbox-src="/BM-Podlahy/assets/optimized/hastalska/hastalska-03.jpg" data-lightbox-alt="Rekonstrukce Haštalská, chodba s návazností dřevěné podlahy">
+                <img src="/BM-Podlahy/assets/optimized/hastalska/hastalska-03.jpg" alt="Rekonstrukce Haštalská, chodba s návazností dřevěné podlahy">
+              </button>
+            </figure>
+          </div>
+
+          <div class="hastalska-mosaic">
+            <figure class="gallery-photo hastalska-item portrait">
+              <button class="gallery-lightbox-trigger" type="button" data-lightbox-trigger data-lightbox-src="/BM-Podlahy/assets/optimized/hastalska/hastalska-04.jpg" data-lightbox-alt="Rekonstrukce Haštalská, pohled přes dveře do obytné části">
+                <img src="/BM-Podlahy/assets/optimized/hastalska/hastalska-04.jpg" alt="Rekonstrukce Haštalská, pohled přes dveře do obytné části">
+              </button>
+            </figure>
+            <figure class="gallery-photo hastalska-item portrait narrow">
+              <button class="gallery-lightbox-trigger" type="button" data-lightbox-trigger data-lightbox-src="/BM-Podlahy/assets/optimized/hastalska/hastalska-05.jpg" data-lightbox-alt="Rekonstrukce Haštalská, detail ložnice s dřevěnou podlahou">
+                <img src="/BM-Podlahy/assets/optimized/hastalska/hastalska-05.jpg" alt="Rekonstrukce Haštalská, detail ložnice s dřevěnou podlahou">
+              </button>
+            </figure>
+            <figure class="gallery-photo hastalska-item portrait narrow">
+              <button class="gallery-lightbox-trigger" type="button" data-lightbox-trigger data-lightbox-src="/BM-Podlahy/assets/optimized/hastalska/hastalska-06.jpg" data-lightbox-alt="Rekonstrukce Haštalská, koupelnový detail s návazností podlahy">
+                <img src="/BM-Podlahy/assets/optimized/hastalska/hastalska-06.jpg" alt="Rekonstrukce Haštalská, koupelnový detail s návazností podlahy">
+              </button>
+            </figure>
+            <figure class="gallery-photo hastalska-item portrait">
+              <button class="gallery-lightbox-trigger" type="button" data-lightbox-trigger data-lightbox-src="/BM-Podlahy/assets/optimized/hastalska/hastalska-07.jpg" data-lightbox-alt="Rekonstrukce Haštalská, ložnice s klidným světlem a dubovou podlahou">
+                <img src="/BM-Podlahy/assets/optimized/hastalska/hastalska-07.jpg" alt="Rekonstrukce Haštalská, ložnice s klidným světlem a dubovou podlahou">
+              </button>
+            </figure>
+
+            <figure class="gallery-photo hastalska-item landscape wide">
+              <button class="gallery-lightbox-trigger" type="button" data-lightbox-trigger data-lightbox-src="/BM-Podlahy/assets/optimized/hastalska/hastalska-08.jpg" data-lightbox-alt="Rekonstrukce Haštalská, přechod mezi obytnou částí a kuchyní">
+                <img src="/BM-Podlahy/assets/optimized/hastalska/hastalska-08.jpg" alt="Rekonstrukce Haštalská, přechod mezi obytnou částí a kuchyní">
+              </button>
+            </figure>
+            <figure class="gallery-photo hastalska-item landscape">
+              <button class="gallery-lightbox-trigger" type="button" data-lightbox-trigger data-lightbox-src="/BM-Podlahy/assets/optimized/hastalska/hastalska-09.jpg" data-lightbox-alt="Rekonstrukce Haštalská, koupelna s pohledem do interiéru">
+                <img src="/BM-Podlahy/assets/optimized/hastalska/hastalska-09.jpg" alt="Rekonstrukce Haštalská, koupelna s pohledem do interiéru">
+              </button>
+            </figure>
+            <figure class="gallery-photo hastalska-item landscape">
+              <button class="gallery-lightbox-trigger" type="button" data-lightbox-trigger data-lightbox-src="/BM-Podlahy/assets/optimized/hastalska/hastalska-10.jpg" data-lightbox-alt="Rekonstrukce Haštalská, tmavá kuchyň s podlahou do stromečku">
+                <img src="/BM-Podlahy/assets/optimized/hastalska/hastalska-10.jpg" alt="Rekonstrukce Haštalská, tmavá kuchyň s podlahou do stromečku">
+              </button>
+            </figure>
+
+            <figure class="gallery-photo hastalska-item portrait narrow">
+              <button class="gallery-lightbox-trigger" type="button" data-lightbox-trigger data-lightbox-src="/BM-Podlahy/assets/optimized/hastalska/hastalska-11.jpg" data-lightbox-alt="Rekonstrukce Haštalská, úzký průhled mezi místnostmi">
+                <img src="/BM-Podlahy/assets/optimized/hastalska/hastalska-11.jpg" alt="Rekonstrukce Haštalská, úzký průhled mezi místnostmi">
+              </button>
+            </figure>
+            <figure class="gallery-photo hastalska-item landscape wide">
+              <button class="gallery-lightbox-trigger" type="button" data-lightbox-trigger data-lightbox-src="/BM-Podlahy/assets/optimized/hastalska/hastalska-12.jpg" data-lightbox-alt="Rekonstrukce Haštalská, detail vestavěného nábytku a podlahy">
+                <img src="/BM-Podlahy/assets/optimized/hastalska/hastalska-12.jpg" alt="Rekonstrukce Haštalská, detail vestavěného nábytku a podlahy">
+              </button>
+            </figure>
+            <figure class="gallery-photo hastalska-item portrait narrow">
+              <button class="gallery-lightbox-trigger" type="button" data-lightbox-trigger data-lightbox-src="/BM-Podlahy/assets/optimized/hastalska/hastalska-13.jpg" data-lightbox-alt="Rekonstrukce Haštalská, pohled přes chodbu do obytného prostoru">
+                <img src="/BM-Podlahy/assets/optimized/hastalska/hastalska-13.jpg" alt="Rekonstrukce Haštalská, pohled přes chodbu do obytného prostoru">
+              </button>
+            </figure>
+
+            <figure class="gallery-photo hastalska-item landscape">
+              <button class="gallery-lightbox-trigger" type="button" data-lightbox-trigger data-lightbox-src="/BM-Podlahy/assets/optimized/hastalska/hastalska-14.jpg" data-lightbox-alt="Rekonstrukce Haštalská, černá kuchyň a návaznost podlahy">
+                <img src="/BM-Podlahy/assets/optimized/hastalska/hastalska-14.jpg" alt="Rekonstrukce Haštalská, černá kuchyň a návaznost podlahy">
+              </button>
+            </figure>
+            <figure class="gallery-photo hastalska-item portrait narrow">
+              <button class="gallery-lightbox-trigger" type="button" data-lightbox-trigger data-lightbox-src="/BM-Podlahy/assets/optimized/hastalska/hastalska-15.jpg" data-lightbox-alt="Rekonstrukce Haštalská, detail světlé stěny a dřevěné podlahy">
+                <img src="/BM-Podlahy/assets/optimized/hastalska/hastalska-15.jpg" alt="Rekonstrukce Haštalská, detail světlé stěny a dřevěné podlahy">
+              </button>
+            </figure>
+            <figure class="gallery-photo hastalska-item portrait narrow">
+              <button class="gallery-lightbox-trigger" type="button" data-lightbox-trigger data-lightbox-src="/BM-Podlahy/assets/optimized/hastalska/hastalska-16.jpg" data-lightbox-alt="Rekonstrukce Haštalská, úzký interiérový detail s podlahou">
+                <img src="/BM-Podlahy/assets/optimized/hastalska/hastalska-16.jpg" alt="Rekonstrukce Haštalská, úzký interiérový detail s podlahou">
+              </button>
+            </figure>
+            <figure class="gallery-photo hastalska-item landscape">
+              <button class="gallery-lightbox-trigger" type="button" data-lightbox-trigger data-lightbox-src="/BM-Podlahy/assets/optimized/hastalska/hastalska-17.jpg" data-lightbox-alt="Rekonstrukce Haštalská, ložnice s bílou truhlářinou">
+                <img src="/BM-Podlahy/assets/optimized/hastalska/hastalska-17.jpg" alt="Rekonstrukce Haštalská, ložnice s bílou truhlářinou">
+              </button>
+            </figure>
+
+            <figure class="gallery-photo hastalska-item landscape wide">
+              <button class="gallery-lightbox-trigger" type="button" data-lightbox-trigger data-lightbox-src="/BM-Podlahy/assets/optimized/hastalska/hastalska-18.jpg" data-lightbox-alt="Rekonstrukce Haštalská, širší pohled do obytné zóny">
+                <img src="/BM-Podlahy/assets/optimized/hastalska/hastalska-18.jpg" alt="Rekonstrukce Haštalská, širší pohled do obytné zóny">
+              </button>
+            </figure>
+            <figure class="gallery-photo hastalska-item landscape">
+              <button class="gallery-lightbox-trigger" type="button" data-lightbox-trigger data-lightbox-src="/BM-Podlahy/assets/optimized/hastalska/hastalska-19.jpg" data-lightbox-alt="Rekonstrukce Haštalská, detail kuchyňské sestavy a dubové podlahy">
+                <img src="/BM-Podlahy/assets/optimized/hastalska/hastalska-19.jpg" alt="Rekonstrukce Haštalská, detail kuchyňské sestavy a dubové podlahy">
+              </button>
+            </figure>
+            <figure class="gallery-photo hastalska-item landscape">
+              <button class="gallery-lightbox-trigger" type="button" data-lightbox-trigger data-lightbox-src="/BM-Podlahy/assets/optimized/hastalska/hastalska-20.jpg" data-lightbox-alt="Rekonstrukce Haštalská, závěrečný detail interiéru s podlahou">
+                <img src="/BM-Podlahy/assets/optimized/hastalska/hastalska-20.jpg" alt="Rekonstrukce Haštalská, závěrečný detail interiéru s podlahou">
+              </button>
+            </figure>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="shell">
+      <div class="footer-panel reveal">
+        <div class="footer-grid">
+          <div>
+            <a class="brand" href="/BM-Podlahy/">
+              <span class="brand-mark"><img src="/BM-Podlahy/assets/bm-podlahy-logo.svg" alt=""></span>
+              <span class="brand-copy">
+                <strong>BM Podlahy, s.r.o.</strong>
+                <span>IČO 03479170</span>
+              </span>
+            </a>
+            <p class="footer-copy">Detail realizace Haštalská a ukázka práce BM Podlahy v městském interiéru po rekonstrukci.</p>
+          </div>
+          <div class="footer-links">
+            <span class="section-label">Navigace</span>
+            <a href="/BM-Podlahy/">Úvod</a>
+            <a href="/BM-Podlahy/sluzby">Služby</a>
+            <a href="/BM-Podlahy/realizace">Realizace</a>
+            <a href="/BM-Podlahy/kontakt">Kontakt</a>
+          </div>
+          <div class="footer-links">
+            <span class="section-label">Kontakt</span>
+            <a href="tel:+420739732294">739 732 294</a>
+            <a href="mailto:bmpodlahy@gmail.com">bmpodlahy@gmail.com</a>
+            <span class="footer-copy">K lipám 295/22, Praha 9, 190 00</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <div class="lightbox" data-lightbox hidden>
+    <div class="lightbox-backdrop" data-lightbox-close></div>
+    <div class="lightbox-dialog" role="dialog" aria-modal="true" aria-label="Zvětšená fotografie realizace">
+      <button class="lightbox-close" type="button" aria-label="Zavřít fotografii" data-lightbox-close>&times;</button>
+      <img class="lightbox-image" src="" alt="" data-lightbox-image>
+      <p class="lightbox-caption" data-lightbox-caption></p>
+    </div>
+  </div>
+
+  4:[["$","$Lf",null,{"page":"realizace"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11"]
+12:I[2888,["182","static/chunks/app/%5Bslug%5D/page-6ed054cafce3f7e8.js"],"AiAssistant"]
+11:["$","$L12",null,{}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Rekonstrukce Haštalská | BM Podlahy, s.r.o."}],["$","meta","1",{"name":"description","content":"Detail realizace BM Podlahy: rekonstrukce Haštalská v Praze 1, dubová podlaha do stromečku a kompletní fotogalerie projektu."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"
